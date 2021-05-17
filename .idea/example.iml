@@ -113,20 +113,11 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/string" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/process" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/psr-http-message-bridge" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/laragraph/utils" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/joselfonseca/lighthouse-graphql-passport-auth" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/defuse/php-encryption" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/passport" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/socialite" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/legacy-factories" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/ui" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/phpseclib/phpseclib" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/ppe/dvtinh" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/mll-lab/laravel-graphql-playground" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/staudenmeir/eloquent-json-relations" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/thecodingmachine/safe" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/php-http/message-factory" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/haydenpierce/class-finder" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/staudenmeir/eloquent-json-relations" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/webonyx/graphql-php" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-factory" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/firebase/php-jwt" />
@@ -135,10 +126,19 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/league/oauth2-server" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/paragonie/constant_time_encoding" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/paragonie/random_compat" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/thecodingmachine/safe" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/lcobucci/jwt" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nyholm/psr7" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nuwave/lighthouse" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/defuse/php-encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laragraph/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/joselfonseca/lighthouse-graphql-passport-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/passport" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/socialite" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/legacy-factories" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ppe/dvtinh" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
